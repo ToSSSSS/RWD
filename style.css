@@ -1,0 +1,124 @@
+
+
+body
+{
+	background-color: darkred;
+}
+
+.naglowek
+{
+	font-size: 40px;
+	font-weight: 300;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-decoration: none;
+	text-align: center;
+	color: white;
+}
+
+.naglowek_2
+{
+	text-align: center;
+	font-size: 30px;
+	font-weight: 300;
+	margin-bottom: 15px;
+	color: white;
+}
+
+
+table
+{
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 4px;
+	margin-top: 50px;
+	border: 1px solid black;
+	margin-bottom: 50px;
+}
+
+th
+{
+	border: 1px solid black;
+	border-radius: 4px;
+	text-align: center;
+	font-size: 18px;
+	color: #521725;
+	background-color: #b53150;
+	padding: 15px;
+}
+
+td
+{
+	border: 1px solid black;
+	border-radius: 4px;
+	border-collapse: collapse;
+	font-weight: 600;
+	font-size: 16px;
+	text-align: justify;
+	background-color: #b53150;
+	max-width: 500px;
+	padding: 15px;
+}
+
+#footer a
+{
+	text-decoration: none;
+	color: white;
+	
+}
+
+#footer
+{
+	font-size: 20px;
+	text-align: center;
+	margin-bottom: 200px;
+
+	background-color: #521725;
+	color: white;
+}
+
+#opis
+{
+	font-size: 1.5vw;
+	text-align: center;
+	margin-bottom: 200px;
+
+	color: white;
+}
+.obrazek
+{
+	  width: 100%;
+	  max-width: 400px;
+	  height: auto;
+}
+#gif
+{
+	width: 70%;
+	  max-width: 300px;
+	  height: auto;
+	
+	
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
